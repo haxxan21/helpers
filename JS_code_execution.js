@@ -1,6 +1,6 @@
 console.log("Add this code to queue");
 
-setTimeout(function() {                                                //This goes and sits in the queue.
+setTimeout(function() {                                                
                            console.log("Running next event from the queue.");
                  },0);
 
